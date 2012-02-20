@@ -1,4 +1,6 @@
 Fork http://labs.qt.nokia.com/2007/06/04/mirroring-widgets/
+
+Not Event driver, but QTimer+QPixmap::grabWindow()
  
 yurenjimi@163.com
 
